@@ -1,4 +1,4 @@
-# Column Names and descriptions for Kings County Data Set
+Column Names and Descriptions for King County Data Set
 * **id** - unique identified for a house
 * **dateDate** - house was sold
 * **pricePrice** -  is prediction target
